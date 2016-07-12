@@ -1,0 +1,19 @@
+.box {
+  color: #f00;
+}
+.box ul {
+  font-size: 18px;
+}
+body {
+  color: #f00;
+  background: #f00;
+}
+body div {
+  font-size: 12px;
+}
+.header .logo {
+  width: 100px;
+}
+.header .title {
+  height: 12px;
+}
