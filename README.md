@@ -18,5 +18,6 @@ cnpm install gulp
 # 安装 gulp-stylus gulp插件
 cnpm install gulp-stylus --save-dev
 
-
+# 启动gulp 监听任务
+gulp watch
 ```
